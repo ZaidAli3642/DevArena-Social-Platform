@@ -1,4 +1,4 @@
-export default {
+const assets = {
   icons: {
     user: require('./icons/user.svg'),
     lock: require('./icons/lock.svg'),
@@ -11,3 +11,5 @@ export default {
     womenWithTab: require('./women-with-tab.png'),
   },
 }
+
+export default assets

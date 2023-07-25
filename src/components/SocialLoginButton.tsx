@@ -1,7 +1,7 @@
 import Image from 'next/image'
 
 interface Props {
-  socialIcon: string | number
+  socialIcon: string
   title: string
 }
 
